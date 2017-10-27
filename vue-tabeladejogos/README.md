@@ -1,18 +1,15 @@
-# vue
+<div align="center">
+    <h1>Tabela de Jogos</h1>
+</div>
+<br>
+Tabela de jogos com pontuação, simulação de placares e classificação, desenvolvido em Vuejs.
 
-> A Vue.js project
+ 
+### Repositórios:
+- **[Tabela de jogos](https://github.com/leodionizio/vuejs2-tabeladejogos/tree/master/vue-tabeladejogos)**
 
-## Build Setup
+#### Ferramentas Utilizadas
+- **[Vuejs](https://vuejs.org/)**
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+**Autor: [@leodionizio](https://github.com/leodionizio/)**
